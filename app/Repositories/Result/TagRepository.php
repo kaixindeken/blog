@@ -2,7 +2,6 @@
 
 namespace App\Repositories\Result;
 
-use App\Models\Article;
 use App\Models\Tag;
 use App\Repositories\BaseRepository;
 
@@ -18,6 +17,7 @@ class TagRepository extends BaseRepository
         return $this->model
             ->with(['article' => function($query){
                 $query->with('view')
+                    ->orderBy('id','desc')
                     ->select('articles.id','articles.title');
             }])
             ->where('id',$id)

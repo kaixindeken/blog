@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c149e4a-5626-4c50-8e7d-2ca09ffe7e1e" name="Default Changelist" comment="加上前端吧">
+    <list default="true" id="4c149e4a-5626-4c50-8e7d-2ca09ffe7e1e" name="Default Changelist" comment="前端">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Repositories/Result/TagRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Repositories/Result/TagRepository.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,6 +228,8 @@
       <workItem from="1601944130828" duration="293000" />
       <workItem from="1601946839682" duration="136000" />
       <workItem from="1601958369074" duration="524000" />
+      <workItem from="1601961171434" duration="332000" />
+      <workItem from="1601988952286" duration="192000" />
     </task>
     <task id="LOCAL-00001" summary="加上前端吧">
       <created>1601959221143</created>
@@ -242,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601959449648</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="前端">
+      <created>1601961210351</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601961210351</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,11 +268,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="加上前端吧" />
-    <option name="LAST_COMMIT_MESSAGE" value="加上前端吧" />
+    <MESSAGE value="前端" />
+    <option name="LAST_COMMIT_MESSAGE" value="前端" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="163" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1601901767718">
@@ -295,9 +307,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="119" y="1" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600656180733" />
-    <state x="220" y="127" key="Vcs.Push.Dialog.v2" timestamp="1601959581852">
+    <state x="220" y="127" key="Vcs.Push.Dialog.v2" timestamp="1601961214049">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="220" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601959581852" />
+    <state x="220" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601961214049" />
   </component>
 </project>
