@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c149e4a-5626-4c50-8e7d-2ca09ffe7e1e" name="Default Changelist" comment="" />
+    <list default="true" id="4c149e4a-5626-4c50-8e7d-2ca09ffe7e1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -195,6 +203,11 @@
       <workItem from="1601889052850" duration="1077000" />
       <workItem from="1601901560326" duration="2190000" />
       <workItem from="1601907710759" duration="916000" />
+      <workItem from="1601943175145" duration="216000" />
+      <workItem from="1601943549602" duration="5000" />
+      <workItem from="1601944130828" duration="293000" />
+      <workItem from="1601946839682" duration="136000" />
+      <workItem from="1601958369074" duration="150000" />
     </task>
     <servers />
   </component>
