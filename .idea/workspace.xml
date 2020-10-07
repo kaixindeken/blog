@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c149e4a-5626-4c50-8e7d-2ca09ffe7e1e" name="Default Changelist" comment="前端">
+    <list default="true" id="4c149e4a-5626-4c50-8e7d-2ca09ffe7e1e" name="Default Changelist" comment="前端和https">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/admin.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,6 +231,8 @@
       <workItem from="1601961171434" duration="332000" />
       <workItem from="1601988952286" duration="238000" />
       <workItem from="1602034993597" duration="488000" />
+      <workItem from="1602047501587" duration="364000" />
+      <workItem from="1602048087224" duration="280000" />
     </task>
     <task id="LOCAL-00001" summary="加上前端吧">
       <created>1601959221143</created>
@@ -259,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601989404357</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="前端和https">
+      <created>1602047671467</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602047671467</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,7 +291,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="加上前端吧" />
     <MESSAGE value="前端" />
-    <option name="LAST_COMMIT_MESSAGE" value="前端" />
+    <MESSAGE value="前端和https" />
+    <option name="LAST_COMMIT_MESSAGE" value="前端和https" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="163" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1601901767718">
@@ -314,9 +325,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="119" y="1" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600656180733" />
-    <state x="220" y="127" key="Vcs.Push.Dialog.v2" timestamp="1601989417196">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="220" y="137" key="Vcs.Push.Dialog.v2" timestamp="1602047772870">
+      <screen x="0" y="23" width="1440" height="810" />
     </state>
     <state x="220" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601989417196" />
+    <state x="220" y="137" key="Vcs.Push.Dialog.v2/0.23.1440.810@0.23.1440.810" timestamp="1602047772870" />
   </component>
 </project>
